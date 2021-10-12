@@ -1,0 +1,36 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.12.3/libexec/bin/yarn.js init
+
+PATH: 
+  /Users/dashixiong/.rvm/gems/ruby-2.5.0/bin:/Users/dashixiong/.rvm/gems/ruby-2.5.0@global/bin:/Users/dashixiong/.rvm/rubies/ruby-2.5.0/bin:/usr/local/sbin:/usr/local/opt/ruby/bin:/usr/local/opt/openssl/bin:/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/opt/gettext/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/dashixiong/.rvm/gems/ruby-2.5.0/bin:/Users/dashixiong/.rvm/gems/ruby-2.5.0@global/bin:/Users/dashixiong/.rvm/rubies/ruby-2.5.0/bin:/usr/local/sbin:/usr/local/opt/ruby/bin:/usr/local/opt/openssl/bin:/usr/local/opt/icu4c/sbin:/usr/local/opt/icu4c/bin:/usr/local/opt/gettext/bin:/usr/local/opt/fzf/bin:/Users/dashixiong/.rvm/bin:/Users/dashixiong/.rvm/bin
+
+Yarn version: 
+  1.12.3
+
+Node version: 
+  14.17.4
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/usr/local/Cellar/yarn/1.12.3/libexec/lib/cli.js:125278:13)
+      at Interface.emit (events.js:400:28)
+      at Interface._ttyWrite (readline.js:910:16)
+      at ReadStream.onkeypress (readline.js:235:10)
+      at ReadStream.emit (events.js:400:28)
+      at emitKeys (internal/readline/utils.js:358:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1179:36)
+      at ReadStream.emit (events.js:400:28)
+      at addChunk (internal/streams/readable.js:290:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
