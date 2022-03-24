@@ -1,7 +1,8 @@
 {
   "name": "simply-express",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "lib/express.js",
+  "files": ["lib/*"],
   "author": "dashixiong <2788347834@qq.com>",
   "license": "MIT",
   "dependencies": {
